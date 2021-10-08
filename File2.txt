@@ -1,1 +1,3 @@
 Check add command.
+
+Change added to test rebase to test for CR1
