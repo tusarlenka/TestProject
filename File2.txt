@@ -12,3 +12,5 @@ Change 5 - to test fetch and rebase for WI8.
 
 Change 6 - to test 3-way push on CR3 
 
+Change - WI10: To test 3-way merge in Remote
+
