@@ -1,12 +1,14 @@
 Check add command.
 
-Change added to test rebase to test for CR1
+Change 1 - added to test rebase to test for CR1
 
-Change - to test first push from local master to remote master without -u
+Change 2 - to test first push from local master to remote master without -u
 
-Change - to test pull from remote master to local master 
+Change 3 - to test pull from remote master to local master 
 
-Change - WI9: to test fetch and rebase item from remote to local
+Change 4 - WI9: to test fetch and rebase item from remote to local
 
-Change - to test fetch and rebase for WI8. 
+Change 5 - to test fetch and rebase for WI8.
+
+Change 6 - to test 3-way push on CR3 
 
