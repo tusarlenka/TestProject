@@ -10,3 +10,5 @@ Change - WI9: to test fetch and rebase item from remote to local
 
 Change - to test fetch and rebase for WI8. 
 
+Change - WI10: To test 3-way merge in Remote
+
